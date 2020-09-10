@@ -1,11 +1,11 @@
 ---
 layout: post
-title:      "Data Science Non-Technical Skill: Slideshows"
+title:      "Non-Technical Skill: Slideshows"
 date:       2020-09-10 18:11:53 -0400
 permalink:  data_science_non-technical_skill_slideshows
 ---
 
-### Introduction
+### Slideshows
 
 Slideshows have been the go-to presentation medium in professional, educational, and recreational lectures and demonstrations for years . Everyone has made one or at least has been forced to sit through a presentation or two. If you were a 90's kid, you probably started seeing them used quite often when you were in high school by your teachers and classmates. The process of creating a slideshow and presenting it to an audience requires 2 entirely different set of skills. These skills are usually shared when students are first taught how to use Microsoft PowerPoint (or Google Slides for a free alternative). However, these skills are either:
 
@@ -21,13 +21,7 @@ The type of presentation that causes me near-physical pain is when the speaker t
 
 You want to be __telling a story__. Stories captivate an audience and get them interested in what you have to say. You can include all the slide transitions and animations you want, but if your audience isn't interested in your presentation, they most likely won't even notice or care. Transitions and animations are just a cherry on top, a garnish on the side of your main entree: the content of your presentation. 
 
-![](http://ibb.co/8d2q8CQ) 
-> Flatiron School Data Science Module 1 Final Project Presentation
-
-The purpose of the presentation above was to share the best type of movie to make for a new movie industry. Rather than jumping right into the findings, the slide deck starts with a brief summary and introduction to the movie industry as a whole.
-
-![](https://ibb.co/stQTyqk)
-![](https://ibb.co/3SXCxrJ)
+The purpose of the module 1 project was to find and share the best type of movie to make for a company new to the movie industry. Rather than jumping right into the findings, the slide deck started with a brief summary and introduction to the movie industry as a whole.
 
 By introducing the audience to some background information on the topic, you can get everyone on the same page as you from the get-go. Once they see something that interests them, like an increase in international movie ticket sales, they are more likely to listen to what you have to say. When you jump right into the content, your audience may not be mentally prepared to hear and immediately comprehend the findings of your research. This leads to our next topic:
 
@@ -44,12 +38,6 @@ The worst slides are the ones with a __wall of text__.
 Just like nobody likes to walk in wet socks , _NOBODY_ likes to read a wall of text. If you buy a new desk from IKEA, open up the instructions and see a wall of text, the next thing you're going to say to yourself is, "I know what a desk looks like. I don't need instructions." Not many people will choose to listen to you if you are reading the exact same words that they are seeing on the screen. This leads to them quickly getting bored, either before or after they are done reading. As they wait for you to finish your script, their thoughts will begin to drift away from your topic and onto what they're going to order for lunch after your presentation.
 
 To keep your audience captivated and interested, keep your slides clean and minimal. This not only applies to words but pictures, transitions, and animations as well. As stated before, if they do not care about what you are presenting, they aren't going to care about how one of your figures appeared on the slide while spinning. 
-
-
-![](https://imgur.com/V5OO0y2)
-
-> Keeping slides clean and with minimal words helps to emphasize the main point you are trying to make
-
 
 ### Speak, Don't Read
 
