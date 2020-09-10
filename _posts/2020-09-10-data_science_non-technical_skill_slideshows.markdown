@@ -1,13 +1,11 @@
 ---
 layout: post
 title:      "Data Science Non-Technical Skill: Slideshows"
-date:       2020-09-10 22:11:52 +0000
+date:       2020-09-10 18:11:53 -0400
 permalink:  data_science_non-technical_skill_slideshows
 ---
 
 ### Introduction
-
-__Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.__
 
 Slideshows have been the go-to presentation medium in professional, educational, and recreational lectures and demonstrations for years . Everyone has made one or at least has been forced to sit through a presentation or two. If you were a 90's kid, you probably started seeing them used quite often when you were in high school by your teachers and classmates. The process of creating a slideshow and presenting it to an audience requires 2 entirely different set of skills. These skills are usually shared when students are first taught how to use Microsoft PowerPoint (or Google Slides for a free alternative). However, these skills are either:
 
